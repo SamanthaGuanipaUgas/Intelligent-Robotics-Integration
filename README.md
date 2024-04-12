@@ -1,2 +1,2 @@
 # Intelligent-Robotics-Integration
-Repository to store the projects developed in the Intelligent Robotics Integration course.
+Repository to store  projects developed in the Intelligent Robotics Integration course using ROS.
